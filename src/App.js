@@ -1,2 +1,2 @@
-// Lakdinu's collaboration log
-console.log("Hello from collaborator Lakdinu!");
+// Lakdinu's new App.js file
+console.log("I am Lakdinu, a collaborator");
