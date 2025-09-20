@@ -1,1 +1,2 @@
-console.log('index loaded v2');
+console.log('Hello from BLakdinu');
+console.log('Another message from BLakdinu');
