@@ -1,4 +1,4 @@
 function App() {
-  return "Hello from react-app-collab-uoj!";
+  return "Hello I am Collaborator Lakdinu";
 }
 module.exports = App;
