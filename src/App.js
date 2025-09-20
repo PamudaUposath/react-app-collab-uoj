@@ -1,2 +1,3 @@
-// Lakdinu's new App.js file
-console.log("I am Lakdinu, a collaborator");
+// This is a simple JavaScript file
+
+console.log('Hello from Pamuda');
