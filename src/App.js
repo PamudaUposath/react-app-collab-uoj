@@ -1,4 +1,2 @@
-function App() {
-  return "Hello I am Collaborator Lakdinu";
-}
-module.exports = App;
+// Lakdinu's collaboration log
+console.log("Hello from collaborator Lakdinu!");
